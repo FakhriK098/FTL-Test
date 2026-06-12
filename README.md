@@ -4,6 +4,20 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
+## Screenshoot
+
+| Screen 1 | Screen 2 |
+| ------- | ------- |
+| <img width="500" height="1000" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-12 at 17 08 48" src="https://github.com/user-attachments/assets/bf7e72e3-3010-44c4-910c-63508b5d67b4" />  | <img width="500" height="1000" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-12 at 17 09 06" src="https://github.com/user-attachments/assets/b0618bfd-f383-4a51-a4a9-a3a13ad93c43" /> |
+
+| Screen 3 | Screen 4 |
+| ------- | ------- |
+| <img width="500" height="1000" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-12 at 17 09 16" src="https://github.com/user-attachments/assets/deb2b99d-3366-4b8c-a51d-f824fdb738b3" /> | <img width="500" height="1000" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-12 at 17 09 36" src="https://github.com/user-attachments/assets/fcf05fca-9c3f-4fd9-8d54-3e6eede96a38" /> |
+
+| Screen 5 |
+| ------- |
+| <img width="500" height="1000" alt="Simulator Screenshot - iPhone 17 Pro - 2026-06-12 at 17 09 51" src="https://github.com/user-attachments/assets/2aa7c3ba-ff5a-4940-8d46-35c5a715f23a" /> |
+
 ## Step 1: Start Metro
 
 First, you will need to run **Metro**, the JavaScript build tool for React Native.
